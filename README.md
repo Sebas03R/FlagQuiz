@@ -14,12 +14,15 @@
    - Compila y ejecuta la aplicación.
 
 3. **Adivina la Bandera**
-   - Selecciona una bandera del menú desplegable.
-   - Intenta adivinar a qué país pertenece esa bandera.
+   - Selecciona un país de la lista desplegable.
+   - Haz clic en el botón "Submit" para verificar tu respuesta.
 
 4. **Verifica tu Respuesta**
-   - Haz clic en la bandera para revelar la respuesta.
+   - Haz clic en el botón "Submit" para verificar tu respuesta.
    - Acumula puntos a medida que avanzas.
+
+5. **Siguiente Bandera**
+   - Haz clic en el botón "Next Flag" para cambiar a la siguiente bandera.
 
 ## Captura de Pantalla
 
